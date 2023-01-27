@@ -1,0 +1,33 @@
+REGISTROS DE PLANTAS BASEADOS NA SUA CONSULTA
+
+PLANTAS DO FILO ANGIOSPERMAS[
+
+PLANTA:   FEIJAO
+TIPO:     GRAOS
+FILO:     ANGIOSPERMAS
+VASOS:    VASCULAR
+CLASSE:   EUDICOTILEDONEAS
+ORDEM:    LEGUMINOSAS
+RAIZ:     PIVOTANTE
+FOLHAS:   COMPOSTAS
+CAULE:    HERBACEO
+SEMENTES: DOIS_COTILEDONES, 
+
+PLANTA:   SOJA
+TIPO:     VAGENS
+FILO:     ANGIOSPERMAS
+VASOS:    VASCULAR
+CLASSE:   EUDICOTILEDONEAS
+ORDEM:    LEGUMINOSAS
+RAIZ:     AXIAL
+FOLHAS:   COMPOSTAS
+CAULE:    RAMOSO
+SEMENTES: DOIS_COTILEDONES]
+
+SOBRE AS ANGIOSPERMAS: 
+
+HABITAT: Ocorrem em variados habitats desde ambientes aquaticos ate aridos.
+DESENVOLVIMENTO: Seu crescimento tem varios estagios ate chegar no processo de floracao e frutos
+FOTOSSINTESE: Absorve nutrientes do solo e/ou de materia organica degradada 
+REPRODUCAO: O corre atraves da polinizacao(Encontro do grao de polen com a parte feminina de uma flor).
+
